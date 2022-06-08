@@ -1,0 +1,12 @@
+#topBar {
+  position: relative;
+  display: inline-block;
+}
+
+#topBar-container {
+  padding: 20px;
+  position: absolute;
+  display: flex;
+  width: 100%;
+  align-items: center;
+}
